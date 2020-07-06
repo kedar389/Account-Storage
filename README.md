@@ -1,2 +1,2 @@
-Simple app for storging accounts
+Simple app for storing accounts
 
